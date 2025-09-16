@@ -312,7 +312,7 @@
     bottom: 20px;
     right: 20px;
     background: var(--donatix-white);
-    padding: 12px 20px 12px;
+    padding: 8px 12px 10px;
     border-radius: 10px;
     -webkit-transform: perspective(0px) rotateX(0deg) scaleY(1.0);
     -ms-transform: perspective(0px) rotateX(0deg) scaleY(1.0);
